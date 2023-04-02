@@ -178,7 +178,7 @@ EMAIL_PORT = 465
 # Имя пользователя почты (до знака @, имеется ввиду почта с которой будут отправляться письма)
 EMAIL_HOST_USER = 'ttamaev.nrb'
 # Пароль email
-EMAIL_HOST_PASSWORD = 'Timur1900'
+EMAIL_HOST_PASSWORD = ''
 # Обязательное включение (security socket layer) для защиты от перехвата
 EMAIL_USE_SSL = True
 # Указываем полный адрес нашей почты с которой отправляем письма
